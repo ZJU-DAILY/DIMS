@@ -1,0 +1,10 @@
+py4j==0.10.4
+
+[ml]
+numpy>=1.7
+
+[mllib]
+numpy>=1.7
+
+[sql]
+pandas
